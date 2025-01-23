@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! My name is Katherine Y., and I'm a candidate for a Bachelor of Science in Computer Science at the University of Pennsylvania. Enjoy!
+Hi! My name is Katherine, and I'm a candidate for a Bachelor of Science in Computer Science at the University of Pennsylvania. Enjoy!
